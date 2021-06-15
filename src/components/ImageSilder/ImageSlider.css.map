@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAA;EACD,gBAAgB,EAAE,IAAI;EACzB,gBAAgB,EAAE,OAAO;EACtB,WAAW,EAAE,yCAAyC;CACzD;;AACD,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,yCAAyC;CACzD",
+    "sources": [
+        "ImageSlider.scss"
+    ],
+    "names": [],
+    "file": "ImageSlider.css"
+}
