@@ -6,8 +6,11 @@ const Movies = () => {
     return (
         <Container>
             <Content>
-                <Wrap>
+                <div className="title">
                     Recommended For You 
+                </div>
+                <Wrap>
+                    <img src="" alt="" />
                 </Wrap>
            </Content>
         </Container>
@@ -17,7 +20,6 @@ const Movies = () => {
 export default Movies;
 
 const Container = styled.div`
-    margin-inline: calc(3.5vw + 13px);
 `;
 
 const Content = styled.div`
@@ -25,5 +27,6 @@ const Content = styled.div`
 `;
 
 const Wrap = styled.div`
-    
+	margin: calc(3.5vw + 13px);
+    margin-top:20px;
 `;
